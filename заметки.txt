@@ -1,0 +1,9 @@
+Динамичный div Загрузки
+<div opacity="1" style="opacity: 1;" class="sc-PDIEN jpBBcJ">
+    Loading Terrain (55.02%)...
+    <div class="sc-ANeCo jFuudP">
+        <div speed="0.2" style="width: 55.0239%; transition: width 0.2s ease 0s;" class="sc-ivsNig ekdpoH"></div>
+    </div>
+</div>;
+
+Доделать в game.json resource 

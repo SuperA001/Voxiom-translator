@@ -1,0 +1,40 @@
+{
+    "translations": {
+        "sc-kxIisj fZzHdB": {
+            "You can change your loadout in your inventory": "Ты можешь изменить свое вооружение в игре.",
+            "You can no longer change your loadout": "Ты не можешь больше сменить свое вооружение."
+        },
+        "sc-PDIEN jpBBcJ": {
+            "Loading Terrain": "Загрузка территории ",
+            "Downloading Terrain": "Загрузка территории"
+        },
+        "sc-gcVIGZ cRaxyW": {
+            "Press E to pick up": "Нажмите E чтобы поднять"
+        },
+        "resourses": {
+            "Log": "Бревно",
+            "Dirt": "Земля",
+            "Cactus": "Кактус",
+            "Sand": "Песок",
+            "Rock": "Булыжник",
+            "Wood": "Доски",
+            "Wooden Chest": "Деревянный сундук",
+            "Iron Chest": "Железный сундук",
+            "Golden Chest": "Золотой сундук",
+            "Shovel": "Лопата",
+            "Red Berry": "Красная ягода",
+            "Orange Berry": "Оранжевая ягода",
+            "Emerald Gem": "Изумруд",
+            "Iron": "Железо",
+            "Sulfur": "Сера",
+            "Stone Brick": "Каменные кирпичи",
+            "Reinforced Iron": "Железный блок",
+            "Pistol Ammo": "Патроны для пистолета",
+            "Assault Rifle Ammo": "Патроны для автоматов",
+            "Sniper Rifle Ammo": "Патроны дял снайперской винтовки",
+            "Submachine Gun Ammo": "Патроны для ..."
+            
+
+        }
+    }
+}

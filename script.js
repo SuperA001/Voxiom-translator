@@ -31,3 +31,5 @@ function loadTranslations() {
 }
 
 setInterval(loadTranslations, 1000)
+
+

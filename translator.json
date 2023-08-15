@@ -1,0 +1,90 @@
+{
+    "translations": {
+        "sc-ctKHVw YECSn active": {
+            "Game": "Играть",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
+        "sc-ctKHVw YECSn": {
+            "Game": "Играть",
+            "Account": "Аккаунт",
+            "Leaderboard": "Таблица лидеров",
+            "Loadouts": "Склад",
+            "Shop": "Магазин",
+            "Updates": "Обновления"
+        },
+        "sc-dqhCBx bVefSq": {
+            "Logout": "Выход"
+        },
+        "sc-jJoQJp fRtCid": {
+            "Region": "Регион",
+            "Play": "Играть",
+            "Play Experimental Games": "Экспериментальные игры"
+        },
+        "sc-jIkXHa iKnwBi": {
+            "Survival": "Выживание",
+            "Custom Game": "Пользовательская игра"
+        },
+        "Dropdown-option": {
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        "Dropdown-placeholder is-selected": {
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)"
+        },
+        "MainTitles": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва",
+            "Free For All": "Сам за себя"
+        },
+        "sc-gIBqdA jbjwZx active": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        "sc-gIBqdA jbjwZx": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        "sc-eWfVMQ fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выйграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        "sc-JkixQ hIGWbS": {
+            "Victory": "Победа"
+        },
+        "sc-cHzqoD ixwXIr": {
+            "Defeat": "Поражение"
+        },
+        "sc-iWVNaa eyFRIg": {
+            "Match History": "История матчей"
+        },
+        "sc-ewSTlh cLiuLr": {
+            "Map:": "Карта: ",
+            "Time:": "Время: ",
+            "Duration:": "Время игры: ",
+            "Kills:": "Убийства: ",
+            "Deaths:": "Смерти: ",
+            "Captures:": "Захваты: ",
+            "Survival Time:": "Время выживания: ",
+            "Score:": "Счёт: "
+        },
+        "sc-hJZKUC guVumh": {
+            "View Details": "Смотреть детали"
+        }
+    }
+}
