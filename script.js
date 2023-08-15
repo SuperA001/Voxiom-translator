@@ -30,4 +30,4 @@ function loadTranslations() {
         .then(data => updateTranslations(data.translations))
 }
 
-setInterval(loadTranslations, 100)
+setInterval(loadTranslations, 1000)
