@@ -16,8 +16,39 @@
             "Shop": "Магазин",
             "Updates": "Обновления"
         },
+        "sc-eWfVMQ fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выйграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
         "sc-dqhCBx bVefSq": {
             "Logout": "Выход"
+        },
+        "sc-faIbUi gIfJjz": {
+            "Friends": "Друзья"
+        },
+        "sc-fezjOJ ghuTRV": {
+            "Clans": "Кланы"
+        },
+        "sc-kqnjJL iKTcSL": {
+            "Loadouts": "Склад"
+        },
+        "sc-jaskfy grKevD": {
+            "Shop": "Магазин"
+        },
+        "Update Patch Notes": {
+            "Update Patch Notes": "Список обновлений"
+        },
+        "MainTitles": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва",
+            "Free For All": "Каждый сам за себя"
         },
         "sc-jJoQJp fRtCid": {
             "Region": "Регион",
@@ -40,11 +71,6 @@
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
-        "MainTitles": {
-            "Capture The Gems": "Захват кристаллов",
-            "Battle Royale": "Королевская битва",
-            "Free For All": "Сам за себя"
-        },
         "sc-gIBqdA jbjwZx active": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва"
@@ -64,14 +90,14 @@
             "Time Survived": "Время выживания",
             "Score": "Счёт"
         },
+        "sc-iWVNaa eyFRIg": {
+            "Match History": "История матчей"
+        },
         "sc-JkixQ hIGWbS": {
             "Victory": "Победа"
         },
         "sc-cHzqoD ixwXIr": {
             "Defeat": "Поражение"
-        },
-        "sc-iWVNaa eyFRIg": {
-            "Match History": "История матчей"
         },
         "sc-ewSTlh cLiuLr": {
             "Map:": "Карта: ",
@@ -85,6 +111,42 @@
         },
         "sc-hJZKUC guVumh": {
             "View Details": "Смотреть детали"
+        },
+        "sc-knKHOI hEKUAW active": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
+        },
+        "sc-knKHOI hEKUAW": {
+            "Friends List": "Список друзей",
+            "Friend Requests": "Запросы в друзья",
+            "My Clan": "Мой клан",
+            "Browse Clans": "Искать кланы",
+            "Invites Sent": "Приглашения в клан",
+            "Join Requests": "Запросы в клан",
+            "Ban List": "Список банов",
+            "Invites Received": "Полученные приглашения",
+            "Join Requests Sent": "Отправленные запросы",
+            "Inventory": "Инвентарь",
+            "Player Market": "Торговая площадка",
+            "My Listed Items": "Мои активные продажи",
+            "My Market History": "Моя история продаж",
+            "Crates": "Ящики",
+            "Misc": "Разное",
+            "Vox Gems": "Вокс гемы"
         }
     }
 }
