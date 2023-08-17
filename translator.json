@@ -16,17 +16,6 @@
             "Shop": "Магазин",
             "Updates": "Обновления"
         },
-        "sc-eWfVMQ fNRzXp": {
-            "Games Played": "Игр сыграно",
-            "Games Won": "Игр выйграно",
-            "Win %": "% побед",
-            "Kills": "Убийства",
-            "Deaths": "Смерти",
-            "KDR": "КДР",
-            "Captures": "Захваты",
-            "Time Survived": "Время выживания",
-            "Score": "Счёт"
-        },
         "sc-dqhCBx bVefSq": {
             "Logout": "Выход"
         },
@@ -80,6 +69,17 @@
             "Battle Royale": "Королевская битва"
         },
         "sc-eWfVMQ fNRzXp": {
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выйграно",
+            "Win %": "% побед",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "KDR": "КДР",
+            "Captures": "Захваты",
+            "Time Survived": "Время выживания",
+            "Score": "Счёт"
+        },
+        "sc-lcepkR iwRvvA": {
             "Games Played": "Игр сыграно",
             "Games Won": "Игр выйграно",
             "Win %": "% побед",
