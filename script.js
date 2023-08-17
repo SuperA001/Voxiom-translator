@@ -25,11 +25,9 @@ function updateTranslations(translations) {
 }
 
 function loadTranslations() {
-    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/Voxiom.ioTranslated/main/tr2.json')
+    fetch('https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/translator.json')
         .then(response => response.json())
         .then(data => updateTranslations(data.translations))
 }
 
-setInterval(loadTranslations, 1000)
-
-
+setInterval(loadTranslations, 100)
