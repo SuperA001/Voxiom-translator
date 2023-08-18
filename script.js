@@ -1,5 +1,6 @@
 function updateTranslations(translations) {
     var elements = document.querySelectorAll('[class]')
+    var TranlationIMG = translations.IMG;
     for (var i = 0; i < elements.length; i++) {
         var element = elements[i]
         var classTranslations = translations[element.getAttribute('class')]
@@ -15,6 +16,7 @@ function updateTranslations(translations) {
             }
         }
     }
+    
     let mainTitle = document.querySelectorAll('.sc-hiCibw.igNAJT > div')
     for (var m = 0; m < mainTitle.length; m++) {
         var mainTitleTranslations = translations.MainTitles
@@ -25,7 +27,7 @@ function updateTranslations(translations) {
 }
 
 function loadTranslations() {
-    fetch('https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/translator.json')
+    fetch('D:/Русификатор Voxiom/translate.json')
         .then(response => response.json())
         .then(data => updateTranslations(data.translations))
 }

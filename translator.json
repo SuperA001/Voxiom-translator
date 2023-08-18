@@ -1,8 +1,10 @@
 {
     "translations": {
-        "sc-llYSUQ jIHuvv": {
-            "Friends": "Друзья",
-            "Clans": "Кланы"
+        "IMG" :{
+             "sc-llYSUQ jIHuvv": {
+                "Friends": "Друзья",
+                "Clans": "Кланы"
+            }
         },
         "sc-ctKHVw YECSn active": {
             "Game": "Играть",
