@@ -343,7 +343,7 @@
             "Score": "Очки",
             "Games Won": "Игр выиграно",
             "Kills": "Убийства",
-            "Survived Time": "Время выживания"
+            "Survival Time": "Время выживания"
         },
         ".sc-gIDmLj.iwQGxq.nav-stats-item-active": {
             "Day": "День",
@@ -352,7 +352,7 @@
             "Score": "Очки",
             "Games Won": "Игр выиграно",
             "Kills": "Убийства",
-            "Survived Time": "Время выживания"
+            "Survival Time": "Время выживания"
         },
         ".sc-XxNYO.eBMOqr": {
             "Rank": "Место",

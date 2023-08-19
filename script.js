@@ -1,3 +1,7 @@
+
+let ТочныйПеревод = true; //true - Для средних и мощных устройств(Более точный перевод, меньше багов), false - для слабых устройств(Более производительный, больше неточностей)
+
+
 function trUpdate(words) {
     for (let classes in words) {
         let translations = words[classes]
@@ -19,7 +23,9 @@ function trLoad() {
 document.addEventListener("DOMContentLoaded", function() {
       trLoad();
   });
-
-const observer = new MutationObserver(trLoad)
-observer.observe(document.body, { childList: true, subtree: true })
-trLoad()
+if (ТочныйПеревод) setTimeout(trLoad(), 600);
+else {
+    const observer = new MutationObserver(trLoad)
+    observer.observe(document.body, { childList: true, subtree: true })
+}
+tim
