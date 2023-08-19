@@ -157,6 +157,13 @@
             "Crates": "Ящики",
             "Misc": "Разное",
             "Vox Gems": "Вокс гемы"
+        },
+        ".sc-cQMzAB.hRFyHw": {
+            "General": "Основные",
+            "Video": "Графика",
+            "Keybinds": "Управление",
+            "Crosshair": "Прицел",
+            "Modding": "Текстуры"
         }
     }
 }
