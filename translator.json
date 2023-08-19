@@ -1,8 +1,8 @@
 {
     "translations": {
         ".sc-llYSUQ.jIHuvv": {
-                "Friends": "Друзья",
-                "Clans": "Кланы"
+            "Friends": "Друзья",
+            "Clans": "Кланы"
         },
         ".sc-ctKHVw.YECSn.active": {
             "Game": "Играть",
@@ -73,10 +73,10 @@
             "Battle Royale": "Королевская битва"
         },
         ".sc-jOxtWs.exMOCY": {
-            "Capture The Gems":"Захват кристаллов"
+            "Capture The Gems": "Захват кристаллов"
         },
         ".sc-jOxtWs.glVnGM": {
-            "Battle Royale":"Королевская битва"
+            "Battle Royale": "Королевская битва"
         },
         ".sc-eWfVMQ.fNRzXp": {
             "Games Played": "Игр сыграно",
@@ -174,7 +174,7 @@
         ".sc-kNzDjo.csWefZ": {
             "Rank": "Место"
         },
-        ".sc-cxVPaa.chFTMr": {
+        "span.sc-cxVPaa.chFTMr": {
             "Map: ": "Карта: ",
             "Time: ": "Время: ",
             "Duration: ": "Длительность: "
@@ -199,7 +199,6 @@
         },
         ".sc-jEieoE.jkBEwJ": {
             "View Details": "Смотреть детали"
-
         },
         ".sc-eMHfQD.kagwjA": {
             "There aren't any outgoing invites.": "Нету активных приглашений."
@@ -225,6 +224,7 @@
             "Scoped Sensitivity Multiplier": "Множитель чувствительности прицела",
             "General Field of View (FOV)": "Основной угол обзора",
             "First Person Model FOV": "Поле зрения от первого лица",
+            "ADS FOV Multiplier": "Множитель угла обзора при наведении",
             "Running FOV Multiplier": "Угол обзора во время бега",
             "Sound Volume": "Громкость",
             "Invert Y Axis": "Инвертировать ось Y",
@@ -251,8 +251,19 @@
             "Drop Current Item": "Выкинуть предмет",
             "Reload": "Перезарядка",
             "Toggle Inventory": "Открыть инвентарь",
-            "Inventory Helper Key": "Помощь в инвентаре"
-
+            "Inventory Helper Key": "Помощь в инвентаре",
+            "Game Overview": "Список игроков",
+            "Toggle Map": "Карта",
+            "Toggle Player Menu": "Репорты",
+            "Select Slot 1": "Слот 1",
+            "Select Slot 2": "Слот 2",
+            "Select Slot 3": "Слот 3",
+            "Select Slot 4": "Слот 4",
+            "Select Slot 5": "Слот 5",
+            "Interact / Pick up": "Подобрать / Использовать",
+            "Spray": "Нарисовать",
+            "Primary Action": "Основное действие",
+            "Secondary Action": "Дополнительное действие"
         },
         ".sc-bxDdli.dIbEXE": {
             "Width": "Ширина",
@@ -280,5 +291,88 @@
         },
         ".sc-hWwfGH.hmiDqW": {
             "Menu": "Меню"
+        },
+        ".sc-lkgTHX.kQPydY": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-lkgTHX.kQPydY.nav-stats-item-active": {
+            "All": "Все",
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-eGPXGI.cCThLf": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-eGPXGI.cCThLf.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Captures": "Захваты"
+        },
+        ".sc-jWUzzU.egphfS": {
+            "Level": "Уровень",
+            "Score": "Очки"
+        },
+        ".sc-jWUzzU.egphfS.nav-stats-item-active": {
+            "Level": "Уровень",
+            "Score": "Очки"
+        },
+        ".sc-gIDmLj.iwQGxq": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survived Time": "Время выживания"
+        },
+        ".sc-gIDmLj.iwQGxq.nav-stats-item-active": {
+            "Day": "День",
+            "Week": "Неделя",
+            "All Time": "За все время",
+            "Score": "Очки",
+            "Games Won": "Игр выиграно",
+            "Kills": "Убийства",
+            "Survived Time": "Время выживания"
+        },
+        ".sc-XxNYO.eBMOqr": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Captures": "Захваты",
+            "Score": "Счёт",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Level": "Уровень"
+        },
+        ".sc-jHkVzv.cPeUZE": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Level": "Уровень",
+            "Score": "Счёт"
+        },
+        ".sc-eGRUor.jWQedv": {
+            "Rank": "Место",
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт",
+            "Games Played": "Игр сыграно",
+            "Games Won": "Игр выиграно",
+            "Level": "Уровень"
+        }
     }
-}}
+}
