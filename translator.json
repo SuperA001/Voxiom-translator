@@ -1,10 +1,10 @@
 {
     "translations": {
-        "sc-llYSUQ.jIHuvv": {
+        ".sc-llYSUQ.jIHuvv": {
                 "Friends": "Друзья",
                 "Clans": "Кланы"
         },
-        "sc-ctKHVw.YECSn.active": {
+        ".sc-ctKHVw.YECSn.active": {
             "Game": "Играть",
             "Account": "Аккаунт",
             "Leaderboard": "Таблица лидеров",
@@ -12,7 +12,7 @@
             "Shop": "Магазин",
             "Updates": "Обновления"
         },
-        "sc-ctKHVw.YECSn": {
+        ".sc-ctKHVw.YECSn": {
             "Game": "Играть",
             "Account": "Аккаунт",
             "Leaderboard": "Таблица лидеров",
@@ -20,22 +20,22 @@
             "Shop": "Магазин",
             "Updates": "Обновления"
         },
-        "sc-dqhCBx.bVefSq": {
+        ".sc-dqhCBx.bVefSq": {
             "Logout": "Выход"
         },
-        "sc-faIbUi.gIfJjz": {
+        ".sc-faIbUi.gIfJjz": {
             "Friends": "Друзья"
         },
-        "sc-fezjOJ.ghuTRV": {
+        ".sc-fezjOJ.ghuTRV": {
             "Clans": "Кланы"
         },
-        "sc-kqnjJL.iKTcSL": {
+        ".sc-kqnjJL.iKTcSL": {
             "Loadouts": "Склад"
         },
-        "sc-jaskfy.grKevD": {
+        ".sc-jaskfy.grKevD": {
             "Shop": "Магазин"
         },
-        "sc-ksHpcM.iVBhsj": {
+        ".sc-ksHpcM.iVBhsj": {
             "Update Patch Notes": "Список обновлений"
         },
         ".sc-hiCibw.igNAJT > div": {
@@ -43,42 +43,42 @@
             "Battle Royale": "Королевская битва",
             "Free For All": "Каждый сам за себя"
         },
-        "sc-jJoQJp fRtCid": {
+        ".sc-jJoQJp fRtCid": {
             "Region": "Регион",
             "Play": "Играть",
             "Play Experimental Games": "Экспериментальные игры"
         },
-        "sc-jIkXHa.iKnwBi": {
+        ".sc-jIkXHa.iKnwBi": {
             "Survival": "Выживание",
             "Custom Game": "Пользовательская игра"
         },
-        "Dropdown-option": {
+        ".Dropdown-option": {
             "US West (San Francisco)": "Запад США (Сан-Франциско)",
             "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
-        "Dropdown-placeholder.is-selected": {
+        ".Dropdown-placeholder.is-selected": {
             "US West (San Francisco)": "Запад США (Сан-Франциско)",
             "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
-        "sc-gIBqdA jbjwZx.active": {
+        ".sc-gIBqdA jbjwZx.active": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва"
         },
-        "sc-gIBqdA.jbjwZx": {
+        ".sc-gIBqdA.jbjwZx": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва"
         },
-        "sc-jOxtWs.exMOCY": {
+        ".sc-jOxtWs.exMOCY": {
             "Capture The Gems":"Захват кристаллов"
         },
-        "sc-jOxtWs.glVnGM": {
+        ".sc-jOxtWs.glVnGM": {
             "Battle Royale":"Королевская битва"
         },
-        "sc-eWfVMQ.fNRzXp": {
+        ".sc-eWfVMQ.fNRzXp": {
             "Games Played": "Игр сыграно",
             "Games Won": "Игр выиграно",
             "Win %": "% побед",
@@ -89,7 +89,7 @@
             "Time Survived": "Время выживания",
             "Score": "Счёт"
         },
-        "sc-lcepkR.iwRvvA": {
+        ".sc-lcepkR.iwRvvA": {
             "Games Played": "Игр сыграно",
             "Games Won": "Игр выиграно",
             "Win %": "% побед",
@@ -100,16 +100,16 @@
             "Time Survived": "Время выживания",
             "Score": "Счёт"
         },
-        "sc-iWVNaa.eyFRIg": {
+        ".sc-iWVNaa.eyFRIg": {
             "Match History": "История матчей"
         },
-        "sc-JkixQ.hIGWbS": {
+        ".sc-JkixQ.hIGWbS": {
             "Victory": "Победа"
         },
-        "sc-cHzqoD.ixwXIr": {
+        ".sc-cHzqoD.ixwXIr": {
             "Defeat": "Поражение"
         },
-        "sc-ewSTlh.cLiuLr": {
+        ".sc-ewSTlh.cLiuLr": {
             "Map:": "Карта: ",
             "Time:": "Время: ",
             "Duration:": "Время игры: ",
@@ -119,10 +119,10 @@
             "Survival Time:": "Время выживания: ",
             "Score:": "Счёт: "
         },
-        "sc-hJZKUC.guVumh": {
+        ".sc-hJZKUC.guVumh": {
             "View Details": "Смотреть детали"
         },
-        "sc-knKHOI.hEKUAW.active": {
+        ".sc-knKHOI.hEKUAW.active": {
             "Friends List": "Список друзей",
             "Friend Requests": "Запросы в друзья",
             "My Clan": "Мой клан",
@@ -140,7 +140,7 @@
             "Misc": "Разное",
             "Vox Gems": "Вокс гемы"
         },
-        "sc-knKHOI.hEKUAW": {
+        ".sc-knKHOI.hEKUAW": {
             "Friends List": "Список друзей",
             "Friend Requests": "Запросы в друзья",
             "My Clan": "Мой клан",
