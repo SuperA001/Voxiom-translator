@@ -244,13 +244,14 @@
             "Move Left": "Влево",
             "Move Right": "Вправо",
             "Move Forward": "Вперед",
-            "Move backward": "Назад",
+            "Move Backward": "Назад",
             "Jump": "Прыжок",
             "Sprint": "Бег",
             "Crouch": "Краться",
             "Drop Current Item": "Выкинуть предмет",
             "Reload": "Перезарядка",
-            "Toggle Inventory": "Открыть инвентарь"
+            "Toggle Inventory": "Открыть инвентарь",
+            "Inventory Helper Key": "Помощь в инвентаре"
 
         },
         ".sc-bxDdli.dIbEXE": {
@@ -272,7 +273,12 @@
             "Sniper Scope Background Opacity": "Прозрачность фона прицела"
         },
         ".sc-jlRLRk.sc-iukxot.dkaHOP.fheinf": {
-            "Restore Defaults": "Сбросить настройки"
-        }
+            "Restore Defaults": "Сбросить настройки",
+            "Resume": "Продолжить",
+            "Settings": "Настройки",
+            "Leave": "Выйти"
+        },
+        ".sc-hWwfGH.hmiDqW": {
+            "Menu": "Меню"
     }
-}
+}}
