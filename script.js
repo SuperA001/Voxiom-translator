@@ -1,35 +1,32 @@
-function updateTranslations(translations) {
-    var elements = document.querySelectorAll('[class]')
-    var TranlationIMG = translations.IMG;
-    for (var i = 0; i < elements.length; i++) {
-        var element = elements[i]
-        var classTranslations = translations[element.getAttribute('class')]
-        if (!classTranslations) {
-            continue
-        }
-        for (var key in classTranslations) {
-            if (classTranslations.hasOwnProperty(key)) {
-                var value = classTranslations[key]
-                if (element.textContent.trim() === key) {
-                    element.textContent = value
+function updateTranslations(classTranslations) {
+    for (var classSelector in classTranslations) {
+        if (classTranslations.hasOwnProperty(classSelector)) {
+            var elements = document.querySelectorAll(classSelector);
+            var translations = classTranslations[classSelector];
+
+            elements.forEach(function (element) {
+                for (var key in translations) {
+                    if (translations.hasOwnProperty(key) && element.textContent.trim() === key) {
+                        element.textContent = translations[key];
+                    }
                 }
-            }
-        }
-    }
-    
-    let mainTitle = document.querySelectorAll('.sc-hiCibw.igNAJT > div')
-    for (var m = 0; m < mainTitle.length; m++) {
-        var mainTitleTranslations = translations.MainTitles
-        if (mainTitleTranslations.hasOwnProperty(mainTitle[m].textContent)) {
-            mainTitle[m].innerText = mainTitleTranslations[mainTitle[m].textContent]
+            });
         }
     }
 }
-
 function loadTranslations() {
-    fetch('D:/Русификатор Voxiom/translate.json')
+    fetch('https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/tr.json')
         .then(response => response.json())
         .then(data => updateTranslations(data.translations))
 }
+var observer = new MutationObserver(function(mutations) {
+    loadTranslations();
+    console.log("observer загружен")
+});
 
-setInterval(loadTranslations, 100)
+//setInterval(loadTranslations, 100)
+const config = { childList: true, subtree: true };
+document.addEventListener('DOMContentLoaded', function() {
+            observer.observe(document.body, config);
+            console.log("Загружено")
+        });
