@@ -164,6 +164,31 @@
             "Keybinds": "Управление",
             "Crosshair": "Прицел",
             "Modding": "Текстуры"
+        },
+        ".sc-cAhXWc.ebhwVb": {
+            "Capture The Gems": "Захват кристаллов",
+            "Battle Royale": "Королевская битва"
+        },
+        ".sc-cxVPaa.chFTMr": {
+            "Map: ": "Карта: ",
+            "Time: ": "Время: ",
+            "Duration: ": "Длительность: "
+        },
+        ".sc-gsFzgR.bQvkau": {
+            "Name": "Имя",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Captures": "Захваты",
+            "Score": "Счёт"
+        },
+        ".sc-bePbDJ.ebOUIU": {
+            "Active Since": "Создан",
+            "Members": "Участников",
+            "Minimum Level Requirement": "Минимальный уровень",
+            "Recruitment Status": "Тип заявки"
+        },
+        ".sc-eDtABA.fqhEfw": {
+            "Accepting Applications": "Принятие по заявке"
         }
     }
 }
