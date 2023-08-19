@@ -166,8 +166,13 @@
             "Modding": "Текстуры"
         },
         ".sc-cAhXWc.ebhwVb": {
-            "Capture The Gems": "Захват кристаллов",
+            "Capture The Gems": "Захват кристаллов"
+        },
+        ".sc-hWBuOZ.fxxwTY": {
             "Battle Royale": "Королевская битва"
+        },
+        ".sc-kNzDjo.csWefZ": {
+            "Rank": "Место"
         },
         ".sc-cxVPaa.chFTMr": {
             "Map: ": "Карта: ",
@@ -185,10 +190,89 @@
             "Active Since": "Создан",
             "Members": "Участников",
             "Minimum Level Requirement": "Минимальный уровень",
-            "Recruitment Status": "Тип заявки"
+            "Recruitment Status": "Тип набора"
         },
         ".sc-eDtABA.fqhEfw": {
-            "Accepting Applications": "Принятие по заявке"
+            "Accepting Applications": "Принятие по заявке",
+            "Invite Only": "Только по приглашению",
+            "Open": "Открытый"
+        },
+        ".sc-jEieoE.jkBEwJ": {
+            "View Details": "Смотреть детали"
+
+        },
+        ".sc-eMHfQD.kagwjA": {
+            "There aren't any outgoing invites.": "Нету активных приглашений."
+        },
+        ".sc-jlRLRk.sc-dUbtfd.dkaHOP.cGXUJi": {
+            "Search": "Поиск",
+            "Invite to Clan": "Пригласить в клан"
+        },
+        ".sc-czvZiG.fWUAzE > div": {
+            "Loading...": "Загрузка...",
+            "There aren't any incoming join requests.": "В данный момент нет заявок на вступление в клан.",
+            "No one has been banned from this clan.": "Нету заблокированных игроков."
+        },
+        ".sc-hDzdEj.bxrxDC": {
+            "Commander": "Командир",
+            "Officer": "Офицер",
+            "Soldier": "Солдат",
+            "Member": "Участник"
+        },
+        ".sc-lhMiDA.gFHuqi": {
+            "Sensitivity": "Чувствительность",
+            "ADS Sensitivity Multiplier": "Множитель чувствительности наведения",
+            "Scoped Sensitivity Multiplier": "Множитель чувствительности прицела",
+            "General Field of View (FOV)": "Основной угол обзора",
+            "First Person Model FOV": "Поле зрения от первого лица",
+            "Running FOV Multiplier": "Угол обзора во время бега",
+            "Sound Volume": "Громкость",
+            "Invert Y Axis": "Инвертировать ось Y",
+            "Invert Mouse Wheel": "Инвертировать колесо мыши",
+            "Hide Chat": "Спрятать чат",
+            "Disable Rewarded Ads Popup": "Отключить награждение за рекламу"
+        },
+        ".sc-eVmaCL.bwgVBX": {
+            "Render Scale": "Дальность прорисовки",
+            "Show bullet tracers": "Показывать направление полета пуль",
+            "Show ammo shells when firing weapon": "Показывать боеприпас при стрельбе"
+        },
+        ".sc-dYPfWK.pFjsv": {
+            "Turn off the settings below might help reduce lag": "Отключите ниже функции чтобы уменьшить зависания."
+        },
+        ".sc-fivaXQ.OAMge": {
+            "Move Left": "Влево",
+            "Move Right": "Вправо",
+            "Move Forward": "Вперед",
+            "Move backward": "Назад",
+            "Jump": "Прыжок",
+            "Sprint": "Бег",
+            "Crouch": "Краться",
+            "Drop Current Item": "Выкинуть предмет",
+            "Reload": "Перезарядка",
+            "Toggle Inventory": "Открыть инвентарь"
+
+        },
+        ".sc-bxDdli.dIbEXE": {
+            "Width": "Ширина",
+            "Length": "Длина",
+            "Color": "Цвет",
+            "Hit Marker Color": "Цвет маркера попадания",
+            "Style": "Стиль",
+            "Show Crosshair When ADS": "Показывать прицел при наведении",
+            "Hide Model When ADS": "Прятать модель оружия при наведении"
+        },
+        ".sc-iuqRDJ.fEywaC": {
+            "Terrain Texture URL": "Ссылка на текстуры",
+            "Sniper Scope Image URL": "Ссылка на прицел снайперской винтовки",
+            "Sniper Scope Image Opacity": "Прозрачность прицела снайперской винтовки",
+            "Sniper Scope Image Scale X": "Масштаб прицела по оси X",
+            "Sniper Scope Image Scale Y": "Масштаб прицела по оси Y",
+            "Sniper Scope Background Color": "Цвет фона прицела",
+            "Sniper Scope Background Opacity": "Прозрачность фона прицела"
+        },
+        ".sc-jlRLRk.sc-iukxot.dkaHOP.fheinf": {
+            "Restore Defaults": "Сбросить настройки"
         }
     }
 }
