@@ -1,6 +1,6 @@
 {
     "translations": {
-        ".sc-llYSUQ.jIHuvv": {
+        ".sc-llYSUQ.jIHuvv > ": {
                 "Friends": "Друзья",
                 "Clans": "Кланы"
         },
@@ -43,7 +43,7 @@
             "Battle Royale": "Королевская битва",
             "Free For All": "Каждый сам за себя"
         },
-        ".sc-jJoQJp fRtCid": {
+        ".sc-jJoQJp.fRtCid": {
             "Region": "Регион",
             "Play": "Играть",
             "Play Experimental Games": "Экспериментальные игры"
@@ -64,7 +64,7 @@
             "Europe (Amsterdam)": "Европа (Амстердам)",
             "Asia (Singapore)": "Азия (Сингапур)"
         },
-        ".sc-gIBqdA jbjwZx.active": {
+        ".sc-gIBqdA.jbjwZx.active": {
             "Capture The Gems": "Захват кристаллов",
             "Battle Royale": "Королевская битва"
         },
