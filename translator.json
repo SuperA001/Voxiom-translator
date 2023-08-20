@@ -588,6 +588,10 @@
         },
         ".sc-URNzB.bNHwUE": {
             "Not enough material!": "Не хватает материалов!"
+        },
+        ".sc-hrJiTw.isILGJ": {
+            "Ammo": "Боеприпас",
+            "Backpack": "Рюкзак"
         }
     }
 }
