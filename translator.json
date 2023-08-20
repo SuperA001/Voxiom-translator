@@ -148,6 +148,13 @@
         ".sc-mDocm.hHRoNj": {
             "Market Search Options": "Фильтры торговой площадки"
         },
+        ".sc-hAWBJg.bXzQpx": {
+            "Unequip": "Снять",
+            "Inspect": "Осмотреть",
+            "Equip": "Надеть",
+            "Sell": "Продать",
+            "List": "Аукцион"
+        },
         ".sc-iRFsWr.gWOdib": {
             "Noteworthy": "Примечательный",
             "Precious": "Драгоценный",
@@ -315,10 +322,20 @@
         ".sc-jlRLRk.sc-dUbtfd.dkaHOP.cGXUJi": {
             "Search": "Поиск",
             "Invite to Clan": "Пригласить в клан",
-            "Sell": "Продать"
+            "Sell": "Продать",
+            "List": "Выставить на аукцион",
+            "Purchase": "Купить"
         },
         ".sc-jlRLRk.sc-iMiVwU.dkaHOP.bqHmXd": {
-            "Later": "Отмена"
+            "Later": "Позже",
+            "Cancel": "Отмена"
+        },
+        ".sc-LerVu.elubaH > span": {
+            "List on the market": "Информация о предмете на аукционе",
+            "Purchase this item?": "Купить этот предмет?"
+        },
+        ".sc-ljHdwo.jrzZMc > span": {
+            "Price: ": "Цена: "
         },
         ".sc-czvZiG.fWUAzE > div": {
             "Loading...": "Загрузка...",
