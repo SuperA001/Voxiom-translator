@@ -19,13 +19,12 @@ function trLoad() {
         .then(response => response.json())
         .then(data => trUpdate(data.translations))
 }
-
-document.addEventListener("DOMContentLoaded", function() {
-      trLoad();
-  });
-if (ТочныйПеревод) setTimeout(trLoad(), 600);
-else {
-    const observer = new MutationObserver(trLoad)
-    observer.observe(document.body, { childList: true, subtree: true })
-}
-tim
+setInterval(trLoad, 100)
+// document.addEventListener("DOMContentLoaded", function() {
+//       trLoad();
+//   });
+// if (ТочныйПеревод) setInterval(trLoad(), 100);
+// else {
+//     const observer = new MutationObserver(trLoad)
+//     observer.observe(document.body, { childList: true, subtree: true })
+// }

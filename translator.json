@@ -56,13 +56,113 @@
             "US West (San Francisco)": "Запад США (Сан-Франциско)",
             "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
-            "Asia (Singapore)": "Азия (Сингапур)"
+            "Asia (Singapore)": "Азия (Сингапур)",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Автомат Калашникова",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Примечательный",
+            "Precious": "Драгоценный",
+            "Magnificent": "Великолепный",
+            "Extraordinary": "Экстрадионарный",
+            "Covert": "Мифический",
+            "Artifact": "Артефакт",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
+        },
+        ".Dropdown-option.is-selected": {
+            "US West (San Francisco)": "Запад США (Сан-Франциско)",
+            "US East (New York City)": "Восток США (Нью-Йорк)",
+            "Europe (Amsterdam)": "Европа (Амстердам)",
+            "Asia (Singapore)": "Азия (Сингапур)",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Автомат Калашникова",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Примечательный",
+            "Precious": "Драгоценный",
+            "Magnificent": "Великолепный",
+            "Extraordinary": "Экстрадионарный",
+            "Covert": "Мифический",
+            "Artifact": "Артефакт",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
         },
         "div.Dropdown-placeholder.is-selected": {
             "US West (San Francisco)": "Запад США (Сан-Франциско)",
             "US East (New York City)": "Восток США (Нью-Йорк)",
             "Europe (Amsterdam)": "Европа (Амстердам)",
-            "Asia (Singapore)": "Азия (Сингапур)"
+            "Asia (Singapore)": "Азия (Сингапур)",
+            "All Items": "Все предметы",
+            "Combat Assault Rifle": "Автомат Калашникова",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "Sprays": "Спреи",
+            "All Rarity": "Все редкости",
+            "Common": "Стандартный",
+            "Noteworthy": "Примечательный",
+            "Precious": "Драгоценный",
+            "Magnificent": "Великолепный",
+            "Extraordinary": "Экстрадионарный",
+            "Covert": "Мифический",
+            "Artifact": "Артефакт",
+            "Most Recent": "Самые новые",
+            "Price: Highest to Lowest": "Цена: От самой высокой до самой низкой",
+            "Price: Lowest to Highest": "Цена: от самой низкой до самой высокой"
+
+        },
+        ".sc-mDocm.hHRoNj": {
+            "Market Search Options": "Фильтры торговой площадки"
+        },
+        ".sc-iRFsWr.gWOdib": {
+            "Noteworthy": "Примечательный",
+            "Precious": "Драгоценный",
+            "Magnificent": "Великолепный",
+            "Extraordinary": "Экстрадионарный",
+            "Covert": "Мифический",
+            "Artifact": "Артефакт"
+        },
+        ".sc-eZKLwX.kWTKXz": {
+            "Search / Filters": "Поиск / Фильтры"
+        },
+        ".sc-jFcvGJ.caACDf": {
+            "Sort By": "Сортировать по",
+            "Item Type": "Тип предмета",
+            "Item Rarity": "Редкость предмета"
         },
         ".sc-gIBqdA.jbjwZx.active": {
             "Capture The Gems": "Захват кристаллов",
@@ -172,7 +272,11 @@
             "Battle Royale": "Королевская битва"
         },
         ".sc-kNzDjo.csWefZ": {
-            "Rank": "Место"
+            "Rank": "Место",
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Survival Time": "Время выживания",
+            "Score": "Счёт"
         },
         "span.sc-cxVPaa.chFTMr": {
             "Map: ": "Карта: ",
@@ -210,7 +314,11 @@
         },
         ".sc-jlRLRk.sc-dUbtfd.dkaHOP.cGXUJi": {
             "Search": "Поиск",
-            "Invite to Clan": "Пригласить в клан"
+            "Invite to Clan": "Пригласить в клан",
+            "Sell": "Продать"
+        },
+        ".sc-jlRLRk.sc-iMiVwU.dkaHOP.bqHmXd": {
+            "Later": "Отмена"
         },
         ".sc-czvZiG.fWUAzE > div": {
             "Loading...": "Загрузка...",
@@ -381,6 +489,105 @@
             "Games Played": "Игр сыграно",
             "Games Won": "Игр выиграно",
             "Level": "Уровень"
+        },
+        ".sc-gcVIGZ.cRaxyW": {
+            "Press E to pick up": "Нажмите E чтобы поднять",
+            "Press E to use": "Нажмите E чтобы использовать"
+        },
+        ".sc-dTWLky.hrCvPx": {
+            "Log": "Бревно",
+            "Dirt": "Земля",
+            "Cactus": "Кактус",
+            "Sand": "Песок",
+            "Rock": "Булыжник",
+            "Wood": "Доски",
+            "Wooden Chest": "Деревянный сундук",
+            "Iron Chest": "Железный сундук",
+            "Golden Chest": "Золотой сундук",
+            "Shovel": "Лопата",
+            "Red Berry": "Красная ягода",
+            "Orange Berry": "Оранжевая ягода",
+            "Emerald Gem": "Изумруд",
+            "Work Station": "Верстак",
+            "Iron": "Железо",
+            "Sulfur": "Сера",
+            "Stone Brick": "Каменные кирпичи",
+            "Reinforced Iron": "Железный блок",
+            "Bedrock Brick": "Бедроковые кирпичи",
+            "Bedrock": "Бедрок",
+            "Pistol Ammo": "Патроны для пистолета",
+            "Assault Rifle Ammo": "Патроны для автоматов",
+            "Sniper Rifle Ammo": "Патроны для снайперской винтовки",
+            "Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "Combat Assault Rifle": "Автомат Калашникова",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle"
+        },
+        ".sc-bxYNtK.eCtHSV": {
+            "Right click to switch mode. Current mode: Block": "Правый клик мыши для смены режима. Текущий режим: Блок",
+            "Right click to switch mode. Current mode: Wall": "Правый клик мыши для смены режима. Текущий режим: Стена",
+            "Right click to switch mode. Current mode: Stairs": "Правый клик мыши для смены режима. Текущий режим: Лестница",
+            "Right click to switch mode. Current mode: Floor": "Правый клик мыши для смены режима. Текущий режим: Пол"
+        },
+        ".sc-gNDVjn.geVVbd": {
+            "Leaderboard": "Таблица лидеров"
+        },
+        ".sc-jcneYm.foSuPz": {
+            "1 Pistol Ammo": "Патроны для пистолета",
+            "1 Assault Rifle Ammo": "Патроны для автоматов",
+            "1 Sniper Rifle Ammo": "Патроны для снайперской винтовки",
+            "1 Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "1 Combat Assault Rifle": "Автомат Калашникова",
+            "1 Tactical Assault Rifle": "Автомат M24",
+            "1 Surge Assault Rifle": "Автомат FAMAS G2",
+            "1 Burst Shotgun": "Дробовик",
+            "1 Light Submachine Gun": "Легкий пистолет-пулемет",
+            "1 Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "1 Light Sniper Rifle": "Легкая снайперская винтовка",
+            "1 Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "1 Strike Pistol": "Штурмовой пистолет",
+            "1 Magnum Pistol": "Пистолет Desert Eagle",
+            "1 Shovel": "Лопата"
+        },
+        ".sc-gloWDX.fWdA-DC": {
+            "Common": "Обычная",
+            "Uncommon": "Хорошая",
+            "Rare": "Отличная",
+            "Epic": "Эпическая",
+            "Legendary": "Легендарная",
+            "Mythic": "Мифическая"
+        },
+        ".sc-jgaZKu.gJjoef": {
+            "Needs": "Требующиеся материалы:"
+        },
+        ".sc-hXLIYv.dUqVQU": {
+            "1 Shovel (Uncommon)": "1 Лопата (Хорошая)",
+            "1 Shovel (Rare)": "1 Лопата (Отличная)",
+            "1 Shovel (Epic)": "1 Лопата (Эпическая)",
+            "1 Shovel (Legendary)": "1 Лопата (Легендарная)",
+            "1 Iron (Common)": "1 железо (обычное)",
+            "2 Iron (Common)": "2 железо (обычное)",
+            "3 Iron (Common)": "3 железо (обычное)",
+            "4 Iron (Common)": "4 железо (обычное)",
+            "5 Iron (Common)": "5 железо (обычное)",
+            "20 Iron (Common)": "20 железо (обычное)",
+            "1 Emerald Gem (Common)": "1 Изумруд (обычный)",
+            "2 Emerald Gem (Common)": "2 Изумруд (обычный)",
+            "3 Emerald Gem (Common)": "3 Изумруд (обычный)",
+            "4 Emerald Gem (Common)": "4 Изумруд (обычный)",
+            "5 Emerald Gem (Common)": "5 Изумруд (обычный)",
+            "10 Emerald Gem (Common)": "10 Изумруд (обычный)"
+
+        },
+        ".sc-URNzB.bNHwUE": {
+            "Not enough material!": "Не хватает материалов!"
         }
     }
 }
