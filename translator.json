@@ -568,8 +568,8 @@
             "Leaderboard": "Таблица лидеров"
         },
         ".sc-jcneYm.foSuPz": {
-            "1 Pistol Ammo": "Патроны для пистолета",
-            "1 Assault Rifle Ammo": "Патроны для автоматов",
+            "Pistol Ammo": "Патроны для пистолета",
+            "Assault Rifle Ammo": "Патроны для автоматов",
             "1 Sniper Rifle Ammo": "Патроны для снайперской винтовки",
             "1 Submachine Gun Ammo": "Патроны для пистолета-пулемета",
             "1 Combat Assault Rifle": "Автомат Калашникова",
@@ -582,7 +582,45 @@
             "1 Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
             "1 Strike Pistol": "Штурмовой пистолет",
             "1 Magnum Pistol": "Пистолет Desert Eagle",
-            "1 Shovel": "Лопата"
+            "1 Shovel": "Лопата",
+            "Sniper Rifle Ammo": "Патроны для снайперской винтовки",
+            "Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "Combat Assault Rifle": "Автомат Калашникова",
+            "Tactical Assault Rifle": "Автомат M24",
+            "Surge Assault Rifle": "Автомат FAMAS G2",
+            "Burst Shotgun": "Дробовик",
+            "Light Submachine Gun": "Легкий пистолет-пулемет",
+            "Compact Submachine Gun": "Утяжеленный пистолет-пулемет",
+            "Light Sniper Rifle": "Легкая снайперская винтовка",
+            "Heavy Sniper Rifle": "Тяжелая снайперская винтовка",
+            "Strike Pistol": "Штурмовой пистолет",
+            "Magnum Pistol": "Пистолет Desert Eagle",
+            "Shovel": "Лопата",
+            "1 Wooden Chest": "Деревянный сундук",
+            "1 Iron Chest": "Железный сундук",
+            "9 Wood": "Доски",
+            "1 Work Station": "Верстак",
+            "9 Stone Brick": "Каменные кирпичи",
+            "9 Reinforced Iron": "Железный блок",
+            "Log": "Бревно",
+            "Dirt": "Земля",
+            "Cactus": "Кактус",
+            "Sand": "Песок",
+            "Rock": "Булыжник",
+            "Wood": "Доски",
+            "Wooden Chest": "Деревянный сундук",
+            "Iron Chest": "Железный сундук",
+            "Golden Chest": "Золотой сундук",
+            "Red Berry": "Красная ягода",
+            "Orange Berry": "Оранжевая ягода",
+            "Emerald Gem": "Изумруд",
+            "Work Station": "Верстак",
+            "Iron": "Железо",
+            "Sulfur": "Сера",
+            "Stone Brick": "Каменные кирпичи",
+            "Reinforced Iron": "Железный блок",
+            "Bedrock Brick": "Бедроковые кирпичи",
+            "Bedrock": "Бедрок"
         },
         ".sc-gloWDX.fWdA-DC": {
             "Common": "Обычная",
@@ -601,17 +639,18 @@
             "1 Shovel (Epic)": "1 Лопата (Эпическая)",
             "1 Shovel (Legendary)": "1 Лопата (Легендарная)",
             "1 Iron (Common)": "1 железо (обычное)",
-            "2 Iron (Common)": "2 железо (обычное)",
-            "3 Iron (Common)": "3 железо (обычное)",
-            "4 Iron (Common)": "4 железо (обычное)",
-            "5 Iron (Common)": "5 железо (обычное)",
-            "20 Iron (Common)": "20 железо (обычное)",
-            "1 Emerald Gem (Common)": "1 Изумруд (обычный)",
-            "2 Emerald Gem (Common)": "2 Изумруд (обычный)",
-            "3 Emerald Gem (Common)": "3 Изумруд (обычный)",
-            "4 Emerald Gem (Common)": "4 Изумруд (обычный)",
-            "5 Emerald Gem (Common)": "5 Изумруд (обычный)",
-            "10 Emerald Gem (Common)": "10 Изумруд (обычный)"
+            "2 Iron (Common)": "2 железа (обычное)",
+            "3 Iron (Common)": "3 железа (обычное)",
+            "4 Iron (Common)": "4 железа (обычное)",
+            "5 Iron (Common)": "5 железа (обычное)",
+            "20 Iron (Common)": "20 железа (обычное)",
+            "1 Emerald Gem (Common)": "1 Изумруда (обычный)",
+            "2 Emerald Gem (Common)": "2 Изумруда (обычный)",
+            "3 Emerald Gem (Common)": "3 Изумруда (обычный)",
+            "4 Emerald Gem (Common)": "4 Изумруда (обычный)",
+            "5 Emerald Gem (Common)": "5 Изумрудов (обычный)",
+            "10 Emerald Gem (Common)": "10 Изумрудов (обычный)",
+            "50 Wood (Common)": "50 досок (обычный)"
 
         },
         ".sc-URNzB.bNHwUE": {
@@ -619,7 +658,11 @@
         },
         ".sc-hrJiTw.isILGJ": {
             "Ammo": "Боеприпас",
-            "Backpack": "Рюкзак"
+            "Backpack": "Рюкзак",
+            "Crafting - Portable": "Крафт - Портативный"
+        },
+        ".sc-ojmzf.bnCjpz": {
+            "Hotbar": "Хотбар"
         }
     }
 }
