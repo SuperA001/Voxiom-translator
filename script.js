@@ -1,30 +1,17 @@
-
-let ТочныйПеревод = true; //true - Для средних и мощных устройств(Более точный перевод, меньше багов), false - для слабых устройств(Более производительный, больше неточностей)
-
-
-function trUpdate(words) {
-    for (let classes in words) {
-        let translations = words[classes]
-        document.querySelectorAll(classes).forEach(element => {
-            for (let key in translations) {
-                if (element.textContent.trim() === key) {
-                    element.textContent = translations[key]
-                }
-            }
-        })
-    }
-}
-function trLoad() {
-    fetch('https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/translator.json')
-        .then(response => response.json())
-        .then(data => trUpdate(data.translations))
-}
-setInterval(trLoad, 100)
-// document.addEventListener("DOMContentLoaded", function() {
-//       trLoad();
-//   });
-// if (ТочныйПеревод) setInterval(trLoad(), 100);
-// else {
-//     const observer = new MutationObserver(trLoad)
-//     observer.observe(document.body, { childList: true, subtree: true })
-// }
+//VoxiomTranslated
+fetch("https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/script.js")
+    .then(response => response.text())
+    .then(data => {
+        const sriptElement = document.createElement("script")
+        sriptElement.textContent = data
+        document.head.appendChild(sriptElement)
+    })
+    
+//VoxiomModernStyle
+fetch("https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomModernStyle/main/style.css")
+    .then(response => response.text())
+    .then(data => {
+        const styleElement = document.createElement("style")
+        styleElement.textContent = data
+        document.head.appendChild(styleElement)
+    })
