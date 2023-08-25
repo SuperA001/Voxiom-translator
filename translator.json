@@ -1,8 +1,14 @@
 {
     "translations": {
         ".sc-llYSUQ.jIHuvv": {
-            "Friends": "Друзья",
-            "Clans": "Кланы"
+            "Friends": {
+                "text": "Друзья",
+                "src": "https://voxiom.io/package/561b26986b5489c71284.png"
+            },
+            "Clans": {
+                "text": "Кланы",
+                "src": "https://voxiom.io/package/f219eab7973b5ab639f6.png"
+            }
         },
         ".sc-ctKHVw.YECSn.active": {
             "Game": "Играть",
