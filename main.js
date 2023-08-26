@@ -1,12 +1,31 @@
-//VoxiomTranslated
-fetch("https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/script.js ")
-    .then(response => response.text())
-    .then(data => {
-        const sriptElement = document.createElement("script")
-        sriptElement.textContent = data
-        document.head.appendChild(sriptElement)
-    })
-    
+function trUpdate(words) { 
+    for (let classes in words) { 
+        let translations = words[classes] 
+        document.querySelectorAll(classes).forEach(element => { 
+            for (let key in translations) { 
+                if (element.textContent.trim() === key) { 
+                    const translationData = translations[key] 
+                    element.textContent = translationData 
+                    if (typeof translationData === 'object') { 
+                        const imgElement = document.createElement('img') 
+                        imgElement.src = translationData.src 
+                        const textElement = document.createElement('span') 
+                        textElement.textContent = translationData.text 
+                        element.innerHTML = '' 
+                        element.appendChild(imgElement) 
+                        element.appendChild(textElement) 
+                    } 
+                } 
+            } 
+        }) 
+    } 
+} 
+fetch('https://raw.githubusercontent.com/SuperA001/Voxiom-translator/main/translator.json') 
+    .then(response => response.json()) 
+    .then(data => { 
+        trUpdate(data.translations) 
+        setInterval(() => trUpdate(data.translations), 100) 
+    }) 
 //VoxiomModernStyle
 fetch("https://raw.githubusercontent.com/TheMasterRob4ig/VoxiomModernStyle/main/style.css")
     .then(response => response.text())
