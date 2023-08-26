@@ -159,7 +159,8 @@
             "Inspect": "Осмотреть",
             "Equip": "Надеть",
             "Sell": "Продать",
-            "List": "Аукцион"
+            "List": "Аукцион",
+            "Purchase": "Купить"
         },
         ".sc-iRFsWr.gWOdib": {
             "Noteworthy": "Примечательный",
@@ -330,7 +331,8 @@
             "Invite to Clan": "Пригласить в клан",
             "Sell": "Продать",
             "List": "Выставить на аукцион",
-            "Purchase": "Купить"
+            "Purchase": "Купить",
+            "Add Friend": "Добавить в друзья"
         },
         ".sc-jlRLRk.sc-iMiVwU.dkaHOP.bqHmXd": {
             "Later": "Позже",
@@ -346,7 +348,8 @@
         ".sc-czvZiG.fWUAzE > div": {
             "Loading...": "Загрузка...",
             "There aren't any incoming join requests.": "В данный момент нет заявок на вступление в клан.",
-            "No one has been banned from this clan.": "Нету заблокированных игроков."
+            "No one has been banned from this clan.": "Нету заблокированных игроков.",
+            "Please log in or register to access this feature!": "Пожалуйста войдите или зарегистрируйтесь чтобы разблокировать эту функцию"
         },
         ".sc-hDzdEj.bxrxDC": {
             "Commander": "Командир",
@@ -526,7 +529,9 @@
         },
         ".sc-gcVIGZ.cRaxyW": {
             "Press E to pick up": "Нажмите E чтобы поднять",
-            "Press E to use": "Нажмите E чтобы использовать"
+            "Press E to use": "Нажмите E чтобы использовать",
+            "Press E to open": "Нажмите E чтобы открыть",
+            "Press E to swap": "Нажмите E чтобы поменять"
         },
         ".sc-dTWLky.hrCvPx": {
             "Log": "Бревно",
@@ -574,10 +579,12 @@
             "Leaderboard": "Таблица лидеров"
         },
         ".sc-jcneYm.foSuPz": {
+            "12 Pistol Ammo": "Патроны для пистолета",
+            "10 Assault Rifle Ammo": "Патроны для автоматов",
             "Pistol Ammo": "Патроны для пистолета",
             "Assault Rifle Ammo": "Патроны для автоматов",
-            "1 Sniper Rifle Ammo": "Патроны для снайперской винтовки",
-            "1 Submachine Gun Ammo": "Патроны для пистолета-пулемета",
+            "3 Sniper Rifle Ammo": "Патроны для снайперской винтовки",
+            "15 Submachine Gun Ammo": "Патроны для пистолета-пулемета",
             "1 Combat Assault Rifle": "Автомат Калашникова",
             "1 Tactical Assault Rifle": "Автомат M24",
             "1 Surge Assault Rifle": "Автомат FAMAS G2",
@@ -589,6 +596,11 @@
             "1 Strike Pistol": "Штурмовой пистолет",
             "1 Magnum Pistol": "Пистолет Desert Eagle",
             "1 Shovel": "Лопата",
+            "2 Medicine Pills": "Медецинские пилюли",
+            "1 First Aid Kit": "Аптечка",
+            "2 Mini Shield Potion": "Маленькое зелье защиты",
+            "1 Advanced Shield Potion": "Среднее зелье защиты",
+            "1 Ultimate Shield Potion": "Большое зелье защиты",
             "Sniper Rifle Ammo": "Патроны для снайперской винтовки",
             "Submachine Gun Ammo": "Патроны для пистолета-пулемета",
             "Combat Assault Rifle": "Автомат Калашникова",
@@ -608,6 +620,7 @@
             "1 Work Station": "Верстак",
             "9 Stone Brick": "Каменные кирпичи",
             "9 Reinforced Iron": "Железный блок",
+            "1 Bomb": "1 динамит",
             "Log": "Бревно",
             "Dirt": "Земля",
             "Cactus": "Кактус",
@@ -650,25 +663,93 @@
             "4 Iron (Common)": "4 железа (обычное)",
             "5 Iron (Common)": "5 железа (обычное)",
             "20 Iron (Common)": "20 железа (обычное)",
-            "1 Emerald Gem (Common)": "1 Изумруда (обычный)",
-            "2 Emerald Gem (Common)": "2 Изумруда (обычный)",
-            "3 Emerald Gem (Common)": "3 Изумруда (обычный)",
-            "4 Emerald Gem (Common)": "4 Изумруда (обычный)",
-            "5 Emerald Gem (Common)": "5 Изумрудов (обычный)",
-            "10 Emerald Gem (Common)": "10 Изумрудов (обычный)",
-            "50 Wood (Common)": "50 досок (обычный)"
+            "1 Emerald Gem (Common)": "1 изумруд (обычный)",
+            "2 Emerald Gem (Common)": "2 изумруда (обычный)",
+            "3 Emerald Gem (Common)": "3 изумруда (обычный)",
+            "4 Emerald Gem (Common)": "4 изумруда (обычный)",
+            "5 Emerald Gem (Common)": "5 изумрудов (обычный)",
+            "10 Emerald Gem (Common)": "10 изумрудов (обычный)",
+            "1 Sulfur (Common)": "1 сера (обычная)",
+            "5 Sulfur (Common)": "1 сера (обычная)",
+            "50 Wood (Common)": "50 досок (обычный)",
+            "30 Wood (Common)": "30 досок (обычный)",
+            "4 Wood (Common)": "50 досок (обычный)",
+            "1 Log (Common)": "1 бревно (обычное)",
+            "1 Rock (Common)": "1 камень (обычный)",
+            "6 Orange Berry (Common)": "6 оранжевых ягод (обычное)",
+            "3 Orange Berry (Common)": "3 оранжевые ягоды (обычное)",
+            "4 Orange Berry (Common)": "4 оранжевые ягоды (обычное)",
+            "6 Red Berry (Common)": "6 красных ягод (обычное)",
+            "3 Red Berry (Common)": "3 красные ягод (обычное)"
 
         },
         ".sc-URNzB.bNHwUE": {
-            "Not enough material!": "Не хватает материалов!"
+            "Not enough material!": "Не хватает материалов!",
+            "Click to craft!": "Нажми чтобы создать!"
         },
         ".sc-hrJiTw.isILGJ": {
             "Ammo": "Боеприпас",
             "Backpack": "Рюкзак",
-            "Crafting - Portable": "Крафт - Портативный"
+            "Crafting - Portable": "Крафт - Портативный",
+            "Crafting - Work Station": "Крафт - Верстак",
+            "Wooden Chest":"Деревянный сундук",
+            "Iron Chest":"Железный сундук",
+            "Golden Chest":"Золотой сундук"
         },
         ".sc-ojmzf.bnCjpz": {
             "Hotbar": "Хотбар"
+        },
+        ".sc-iXEfxz.cYwXTg": {
+            "Player": "Игрок"
+        },
+        ".sc-bgMUWu.hMDrbk": {
+            "Kills": "Убийства",
+            "Deaths": "Смерти",
+            "Assists": "Помощь",
+            "Score": "Счёт"
+        },
+        ".sc-kOyqGX.hekDHw > #text": {
+            "Hotbar":"Хотбар"
+        },
+        ".sc-LQqIQ.kTPXFo": {
+            "Click anywhere to respawn!": "Нажмите чтобы возродится",
+            "Respawning in 9...": "Возрождение через 9...",
+            "Respawning in 8...": "Возрождение через 8...",
+            "Respawning in 7...": "Возрождение через 7...",
+            "Respawning in 6...": "Возрождение через 6...",
+            "Respawning in 5...": "Возрождение через 5...",
+            "Respawning in 4...": "Возрождение через 4...",
+            "Respawning in 3...": "Возрождение через 3...",
+            "Respawning in 2...": "Возрождение через 2...",
+            "Respawning in 1...": "Возрождение через 1..."
+            
+        },
+        ".sc-hgksCU.kaFecd > span": {
+            "Connection Failed! Please try again!": "Соеденение прервано! Попробуйте еще раз!"
+        },
+        ".sc-gwNMUz.jAEnuV": {
+            "Find a new game": "Найти новую игру"
+        },
+        ".sc-iJCbQK.jiSzWK > span": {
+            "Sorry, you must be logged in to access this feature!": "Извините, но вы должны выполнить вход чтобы пользоваться инвентарем"
+        },
+        ".sc-kTqLtj.eBvsGw > div": {
+            "Sorry, you must be logged in to access this feature!": "Извините, но вы должны выполнить вход чтобы пользоваться инвентарем"
+        },
+        ".sc-dwsnSq.fPHxxk": {
+            "Sign in to track stats and level up!": "Войдите чтобы открыть все возможности!"
+        },
+        ".sc-cvZCdy.Spnsu": {
+            "Sign in with Discord": "Войти с помощью Discord",
+            "Sign in with Google": "Войти с помощью Google",
+            "Sign in with Facebook": "Войти с помощью Facebook"
+        },
+        ".sc-fIosxK.dELkbP": {
+            "Soldier": "Солдат"
+        },
+        ".sc-jcFjpl.hONyLe": {
+            "Unlock at Level 5": "Откроется на уровне 5",
+            "Unlock at Level 60": "Откроется на уровне 60"
         }
     }
 }
